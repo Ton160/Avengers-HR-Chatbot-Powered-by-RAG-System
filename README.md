@@ -1,7 +1,5 @@
 # 🦸‍♂️ Avengers HR Chatbot – Powered by RAG System
 
-![Chatbot Screenshot](screenshots/chatbot.png)
-
 ## Project Overview
 **Avengers HR Chatbot** is an interactive HR assistant built with **LangChain** and **Streamlit**, designed to answer human resources questions for the Avengers Global Alliance Inc.  
 This project leverages **RAG (Retrieval-Augmented Generation)** to read and understand HR PDF documents, delivering accurate, context-aware responses along with source references.
