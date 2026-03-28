@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain_community
+langchain_text_splitters
+chromadb
+sentence-transformers
+langchain_groq
+pypdf
